@@ -3,7 +3,6 @@ Base de conhecimento
 # Como Configurar Sua Chave PIX
 
 ## Introdução
-
 Este tutorial tem como objetivo orientar os usuários na configuração de sua chave PIX. O PIX é um sistema de pagamento instantâneo que permite transferências de forma rápida e segura. Aqui, abordaremos o passo a passo necessário para que você possa utilizar essa funcionalidade em sua conta.
 
 **Documentação baseada em dados do [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix)**
