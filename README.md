@@ -18,8 +18,6 @@ Este tutorial tem como objetivo orientar os usuários na configuração de sua c
 4. **Perguntas Frequentes**
     - Dúvidas comuns sobre a chave PIX
 
----
-
 ## O que é PIX?
 
 O PIX é um sistema de pagamento instantâneo criado pelo Banco Central do Brasil, que permite transferências e pagamentos em tempo real, 24 horas por dia, 7 dias por semana.
@@ -59,8 +57,6 @@ Antes de iniciar o processo de configuração, verifique se:
 | CPF | 123.456.789-00 |
 | E-mail | usuario@exemplo.com.br |
 | Telefone | (11) 91234-5678 |
-
----
 
 ## Perguntas Frequentes
 
